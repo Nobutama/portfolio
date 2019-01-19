@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.topga img {
+  width: 200px;
+  height: 300;
+}
+
+body {
+  background-size: cover;
+  background-image: url('../images/leaves-pattern.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: white;
+}
+
+
+.container {
+  width: 500px;
+  margin: 300px auto;
+}
+
+.name {
+  color: Black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Tahoma;
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
+
+.sub {
+  font-size: 18px;
+  margin: 0px auto;
+  padding-top: 0
+}
+
+
+
+.blocks{
+  float: left;
+  width: 25%;
+}
+
+.cicle-icon p {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  color: black;
+}
+
+.txt-contents {
+  font-weight: normal;
+}
